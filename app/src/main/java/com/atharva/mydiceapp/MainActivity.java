@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 ,R.drawable.dice5 ,R.drawable.dice6}; //setting dice images index wise
 
         //Declaring a variable of type button.
+        // testing
         Button rollTheDice = findViewById(R.id.button1);
 
         //setting sound for the dice roll
